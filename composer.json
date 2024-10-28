@@ -1,6 +1,6 @@
 {
-    "name": "assuncaofranco/test-library",
-    "description": "Tests library",
+    "name": "assuncaofranco/celesta-integration",
+    "description": "Celesta integration library",
     "require": {
         "symfony/monolog-bundle": "^3.1",
         "symfony/yaml": "^4.0|^5.0|^6.0",
@@ -23,7 +23,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/assuncaofranco/test-library"
+            "url": "https://github.com/assuncaofranco/celesta-integration"
         }
     ]
 }
